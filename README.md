@@ -65,15 +65,11 @@ brew install libomp
 
 **N.B. No data is provided as part of this repository!**
 
-Shapefiles are available from GADM at:
-- https://gadm.org/download_country_v3.html (Kenya)
-- https://gadm.org/download_country_v3.html (Namibia)
-
 Flow data is available from:
 - Wesolowski, 2012, Quantifying the Impact of Human Mobility on Malaria, doi:10.1126/science.1223467 (Kenya)
 - Ruktanonchai, 2016, Identifying Malaria Transmission Foci for Elimination Using Human Mobility Data, doi:10.1371/journal.pcbi.1004846 (Namibia)
 
-Ambient population was retrieved from Landscan (https://landscan.ornl.gov).
+Ambient population by administartive unit was computed (code not available as part of this repo) using data retrieved from Landscan (https://landscan.ornl.gov) and GADM (https://gadm.org/download_country_v3.html).
 
 ---
 # Data format used in code
