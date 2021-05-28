@@ -1,5 +1,5 @@
 # Citation
-Constanze Ciavarella, Neil Ferguson, (2020), Deriving fine-scale models of human mobility from aggregated origin-destination flow data, Imperial College London, under review
+Constanze Ciavarella, Neil Ferguson (2021), Deriving fine-scale models of human mobility from aggregated origin-destination flow data, PLoS Comput Biol 17(2): e1008588. https://doi.org/10.1371/journal.pcbi.1008588
 
 ---
 # Description
